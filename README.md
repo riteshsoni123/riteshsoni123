@@ -10,6 +10,9 @@
 - 😄 Pronouns: He/His
 <!-- - ⚡ Fun fact: ... -->
 
+<!-- ![](https://komarev.com/ghpvc/?username=riteshsoni123&style=flat-square) -->
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=riteshsoni123)](https://github.com/riteshsoni123/github-profile-trophy)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshsoni123)](https://github.com/riteshsoni123/github-readme-stats) -->
