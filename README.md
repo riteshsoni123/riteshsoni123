@@ -15,11 +15,11 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=riteshsoni123)](https://github.com/riteshsoni123/github-profile-trophy) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshsoni123)](https://github.com/riteshsoni123/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshsoni123&theme=dark)](https://github.com/riteshsoni123/github-readme-stats) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshsoni123&layout=compact)](https://github.com/riteshsoni123/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshsoni123&layout=compact&theme=dark&hide_border=true)](https://github.com/riteshsoni123/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riteshsoni123&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riteshsoni123&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=riteshsoni123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=riteshsoni123&&hide_border=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
