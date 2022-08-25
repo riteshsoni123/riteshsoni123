@@ -1,8 +1,8 @@
 ### Hello I'm Ritesh Soni! 👋
 
 
-- 🔭 I’m currently working on Tourism website
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on multiplayer chess game.
+- 🌱 I’m currently learning Socket.io
 - 👯 I’m looking to collaborate on web development
 - 💬 Ask me about C++,MERN
 - 📫 How to reach me: [LinkedIn-Ritesh Soni](https://www.linkedin.com/in/ritesh-soni-2ab38a200/)
